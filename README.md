@@ -1,4 +1,6 @@
 # 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
+# Name: Kommalagunta  charan Teja
+# Reg No: 212224040163
 ## AIM
 To write a python program for creating File Transfer using TCP Sockets Links
 ## ALGORITHM:
